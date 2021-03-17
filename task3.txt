@@ -1,5 +1,5 @@
 // task 3
-making changes as 2nd user to make difference
+making changes as 1nd user to make difference
 #include <iostream>  
 using namespace std;  
 int main()  
